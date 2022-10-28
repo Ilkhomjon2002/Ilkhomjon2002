@@ -82,9 +82,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ilkhomjon2002&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Ilkhomjon2002&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkhomjon2002&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkhomjon2002&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
