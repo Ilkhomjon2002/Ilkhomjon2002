@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
-</div>  
-  
+<h1>Hello</h1>
 
 ### <div align="center">I'm Ilkhomjon, a part-time frontend developer 👨‍💻 🚀</div>  
   
