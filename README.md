@@ -18,7 +18,7 @@
 - 📄 Know about my experiences https://drive.google.com/file/d/12HjGZ7M58blW4U2Dwd0T0Ku5i0TtYDTK/view?usp=sharing  
   
 
-- 👨‍💻 All of my projects are available at https://portfolio-website-kohl-psi.vercel.app/
+- 👨‍💻 All of my projects are available at https://portfolio-new-three-eta.vercel.app/
   
   
 
