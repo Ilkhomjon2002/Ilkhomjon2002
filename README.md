@@ -3,7 +3,7 @@
 ### <div align="center">I'm Ilkhomjon, a part-time frontend developer 👨‍💻 🚀</div>  
   
 
-- 🌱 I’m currently learning React Native  
+- 🌱 I’m currently learning Flutter  
   
 
 - ❓ Ask me about anything related to React, Angular, TypeScript, JavaScript  
