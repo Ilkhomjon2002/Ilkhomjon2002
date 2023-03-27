@@ -1,6 +1,6 @@
 <h1>Hello</h1>
 
-### <div align="center">I'm Ilkhomjon, a part-time frontend developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Ilkhomjon, Frontend Developer 👨‍💻 🚀</div>  
   
 
 - 🌱 I’m currently learning Flutter  
