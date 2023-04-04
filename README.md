@@ -9,9 +9,6 @@
 - ❓ Ask me about anything related to React, Angular, TypeScript, JavaScript  
   
 
-- ⚡ Fun fact: I am funny  
-  
-
 - 📫 How to reach me ilhommaxsudov3@gmail.com  
   
 
