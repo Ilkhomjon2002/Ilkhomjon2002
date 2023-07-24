@@ -1,5 +1,3 @@
-<h1>Hello</h1>
-
 ### <div align="center">I'm Ilkhomjon, Frontend Developer 👨‍💻 🚀</div>  
   
 
