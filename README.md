@@ -10,9 +10,6 @@
 - 📫 How to reach me ilhommaxsudov3@gmail.com  
   
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1pHk3fI64cjG1NcGcFBy_SpznkNZcQm0u/view?usp=sharing 
-  
-
 - 👨‍💻 All of my projects are available at https://portfolio-new-three-eta.vercel.app/
   
   
