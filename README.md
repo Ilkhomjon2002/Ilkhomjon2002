@@ -68,5 +68,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/ilkhomjon2002/count.svg?"  />
 </div>
-
+<h2 align="left">Most of my projects are hidden so please contact me to get know more about them or you can refer to my portfolio https://ilkhomjonmakhsudov.uz</h2>
 ###
